@@ -1,0 +1,91 @@
+client,file,clienthello_bytes,sni_start,sni_end,sni_fully_in_seg1_mss1460,sni_fully_in_seg1_mss1400,extension_order
+Go 1.24.7,ch_000.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_001.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_002.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_003.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_004.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_005.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_006.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_007.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_008.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_009.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_010.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_011.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_012.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_013.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_014.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_015.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_016.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_017.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_018.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Go 1.24.7,ch_019.bin,1484,108,139,True,True,server_name > 11 > 65281 > 23 > 18 > 5 > supported_groups > sig_algs > versions > key_share
+Node 22 / OpenSSL 3.5.4,ch_000.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_001.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_002.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_003.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_004.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_005.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_006.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_007.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_008.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_009.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_010.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_011.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_012.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_013.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_014.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_015.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_016.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_017.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_018.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Node 22 / OpenSSL 3.5.4,ch_019.bin,1599,191,222,True,True,65281 > server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share
+Python / OpenSSL 3.0.13 (classical),ch_000.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_001.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_002.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_003.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_004.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_005.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_006.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_007.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_008.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_009.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_010.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_011.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_012.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_013.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_014.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_015.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_016.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_017.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_018.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Python / OpenSSL 3.0.13 (classical),ch_019.bin,517,118,149,True,True,server_name > 11 > supported_groups > 35 > 22 > 23 > sig_algs > versions > psk_modes > key_share > padding
+Chromium 141.0.7390.37,ch_000.bin,1828,1394,1425,True,False,10794 > key_share > 5 > server_name > versions > 11 > psk_modes > ech > alpn > 65281 > 23 > 27 > supported_groups > 17613 > 35 > 18 > sig_algs > 51914
+Chromium 141.0.7390.37,ch_001.bin,1828,501,532,True,True,14906 > sig_algs > ech > 5 > 17613 > 11 > psk_modes > alpn > supported_groups > 23 > 27 > server_name > 65281 > key_share > versions > 35 > 18 > 31354
+Chromium 141.0.7390.37,ch_002.bin,1828,122,153,True,True,23130 > 23 > server_name > 11 > psk_modes > supported_groups > 17613 > 65281 > alpn > sig_algs > 5 > 35 > ech > 27 > key_share > versions > 18 > 10794
+Chromium 141.0.7390.37,ch_003.bin,1796,162,193,True,True,31354 > 27 > psk_modes > 5 > sig_algs > server_name > ech > versions > supported_groups > 18 > alpn > 35 > key_share > 65281 > 11 > 17613 > 23 > 27242
+Chromium 141.0.7390.37,ch_004.bin,1796,1698,1729,False,False,27242 > 18 > 17613 > 23 > key_share > ech > sig_algs > supported_groups > 35 > server_name > versions > 27 > 11 > alpn > 65281 > 5 > psk_modes > 14906
+Chromium 141.0.7390.37,ch_005.bin,1828,1792,1823,False,False,6682 > versions > 17613 > key_share > ech > psk_modes > 11 > alpn > 5 > supported_groups > 65281 > 23 > 18 > 35 > sig_algs > 27 > server_name > 51914
+Chromium 141.0.7390.37,ch_006.bin,1796,118,149,True,True,19018 > server_name > sig_algs > psk_modes > 5 > ech > 65281 > key_share > 35 > 11 > alpn > versions > 18 > 27 > 17613 > 23 > supported_groups > 2570
+Chromium 141.0.7390.37,ch_007.bin,1796,1718,1749,False,False,31354 > key_share > 18 > supported_groups > 11 > 5 > 27 > alpn > 35 > ech > 23 > versions > server_name > 65281 > sig_algs > 17613 > psk_modes > 14906
+Chromium 141.0.7390.37,ch_008.bin,1796,131,162,True,True,2570 > 35 > 5 > server_name > 17613 > 18 > supported_groups > 11 > 65281 > 27 > key_share > ech > alpn > versions > sig_algs > psk_modes > 23 > 27242
+Chromium 141.0.7390.37,ch_009.bin,1764,1660,1691,False,False,31354 > 27 > sig_algs > ech > 65281 > 5 > 18 > key_share > psk_modes > server_name > alpn > 17613 > versions > 23 > 35 > 11 > supported_groups > 19018
+Chromium 141.0.7390.37,ch_010.bin,1796,1411,1442,True,False,27242 > sig_algs > 18 > key_share > server_name > versions > 5 > psk_modes > supported_groups > ech > 65281 > alpn > 23 > 17613 > 27 > 11 > 35 > 43690
+Chromium 141.0.7390.37,ch_011.bin,1764,1728,1759,False,False,6682 > 18 > supported_groups > sig_algs > 65281 > 5 > key_share > versions > alpn > 17613 > 11 > 35 > 27 > 23 > ech > psk_modes > server_name > 2570
+Chromium 141.0.7390.37,ch_012.bin,1764,1483,1514,False,False,23130 > 18 > sig_algs > supported_groups > 35 > alpn > 23 > 5 > psk_modes > 17613 > key_share > 11 > server_name > 27 > ech > versions > 65281 > 6682
+Chromium 141.0.7390.37,ch_013.bin,1764,1695,1726,False,False,6682 > 23 > 5 > key_share > 17613 > supported_groups > 18 > versions > 65281 > 11 > psk_modes > alpn > ech > server_name > 35 > sig_algs > 27 > 60138
+Chromium 141.0.7390.37,ch_014.bin,1828,1716,1747,False,False,64250 > ech > 27 > 23 > supported_groups > key_share > alpn > server_name > 17613 > sig_algs > versions > psk_modes > 11 > 65281 > 5 > 35 > 18 > 31354
+Chromium 141.0.7390.37,ch_015.bin,1732,1692,1723,False,False,14906 > 27 > 11 > 35 > versions > supported_groups > ech > 5 > psk_modes > alpn > sig_algs > 18 > 17613 > key_share > 65281 > server_name > 23 > 23130
+Chromium 141.0.7390.37,ch_016.bin,1732,188,219,True,True,51914 > psk_modes > sig_algs > 17613 > 27 > 35 > supported_groups > 11 > server_name > versions > 18 > 23 > key_share > ech > 65281 > alpn > 5 > 56026
+Chromium 141.0.7390.37,ch_017.bin,1796,471,502,True,True,39578 > 23 > 18 > 65281 > ech > 35 > psk_modes > alpn > 27 > sig_algs > versions > 17613 > 5 > server_name > key_share > 11 > supported_groups > 23130
+Chromium 141.0.7390.37,ch_018.bin,1828,1792,1823,False,False,56026 > 11 > ech > 35 > sig_algs > 27 > psk_modes > key_share > 65281 > 23 > versions > 17613 > supported_groups > 18 > alpn > 5 > server_name > 2570
+Chromium 141.0.7390.37,ch_019.bin,1732,1696,1727,False,False,35466 > 65281 > 11 > sig_algs > ech > alpn > 27 > psk_modes > 18 > versions > 23 > key_share > 17613 > 35 > 5 > supported_groups > server_name > 14906
+Chromium 141.0.7390.37,ch_020.bin,1764,1728,1759,False,False,31354 > 5 > 23 > sig_algs > ech > 65281 > 35 > versions > 17613 > supported_groups > 27 > alpn > 18 > psk_modes > 11 > key_share > server_name > 10794
+Chromium 141.0.7390.37,ch_021.bin,1732,1416,1447,True,False,14906 > sig_algs > 17613 > key_share > server_name > ech > supported_groups > 27 > 23 > 65281 > 5 > 11 > versions > alpn > 35 > psk_modes > 18 > 10794
+Chromium 141.0.7390.37,ch_022.bin,1764,1715,1746,False,False,14906 > alpn > key_share > 5 > 27 > psk_modes > 18 > 11 > sig_algs > ech > supported_groups > 65281 > versions > 23 > server_name > 17613 > 35 > 51914
+Chromium 141.0.7390.37,ch_023.bin,1828,118,149,True,True,27242 > server_name > ech > sig_algs > 18 > versions > 35 > alpn > 11 > 5 > 27 > 65281 > 17613 > supported_groups > 23 > key_share > psk_modes > 47802
+Chromium 141.0.7390.37,ch_024.bin,1796,128,159,True,True,43690 > 11 > 35 > server_name > alpn > sig_algs > versions > key_share > ech > 65281 > psk_modes > 17613 > 5 > 27 > supported_groups > 18 > 23 > 51914
+Chromium 141.0.7390.37,ch_025.bin,1796,1452,1483,False,False,23130 > psk_modes > 5 > versions > 11 > key_share > sig_algs > 18 > 35 > 65281 > server_name > 23 > ech > alpn > 27 > supported_groups > 17613 > 19018
+Chromium 141.0.7390.37,ch_026.bin,1828,1728,1759,False,False,35466 > 23 > 27 > key_share > ech > alpn > 11 > supported_groups > psk_modes > server_name > 5 > 17613 > 35 > sig_algs > versions > 65281 > 18 > 31354
+Chromium 141.0.7390.37,ch_027.bin,1828,1762,1793,False,False,31354 > 27 > ech > supported_groups > 11 > 23 > 65281 > sig_algs > 5 > 35 > key_share > alpn > server_name > 17613 > 18 > psk_modes > versions > 27242
+Chromium 141.0.7390.37,ch_028.bin,1828,140,171,True,True,19018 > 18 > alpn > server_name > 17613 > sig_algs > psk_modes > 27 > key_share > 23 > 5 > 65281 > supported_groups > 35 > versions > ech > 11 > 39578
+Chromium 141.0.7390.37,ch_029.bin,1764,1728,1759,False,False,60138 > sig_algs > supported_groups > 17613 > 5 > psk_modes > key_share > versions > 18 > 65281 > 35 > ech > 11 > 23 > alpn > 27 > server_name > 6682

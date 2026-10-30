@@ -1,0 +1,10 @@
+mss,max_segments,n,single_packet_ok,fixed_offset_ok,offset_only_ok,checkpoint_ok,max_state_bytes,max_skip_carried_bytes
+1460,2,2000,1099,130,1926,2000,33,332
+1448,2,2000,1062,130,1934,2000,33,344
+1400,2,2000,993,130,1990,2000,18,392
+1360,2,2000,993,130,2000,2000,12,432
+1280,2,2000,993,130,2000,2000,12,512
+536,4,2000,984,130,1991,2000,32,1256
+
+random_cut_runs,40000,correct,40000,max_state_bytes,45
+out_of_order_runs,2000,sent_to_slow_path,2000,wrong,0
